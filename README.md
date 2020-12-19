@@ -26,4 +26,4 @@ Current project : Minority report
 - Feed the output video to a CNN autoencoder model made of CONV3D layers (Keras)  
 - Predict the next 2 images of the video  
 
-Available on Linkedin : cbenhaim
+Available on Linkedin : [cbenhaim](https://www.linkedin.com/in/cbenhaim/)
