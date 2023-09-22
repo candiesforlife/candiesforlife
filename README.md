@@ -19,7 +19,7 @@ I'm Camille BENHAIM.
 Learned to code at Le Wagon Data Science Bootcamp  🚂  
 Love working on Machine and Deep Learning models.  
   
-Current project : Minority report  
+Lateste project : Minority report  
 7M crimes indexed for the past 13 years. How to proceed ?  
 - Represent crime locations in space and time with 3D arrays  
 - Pass it through a Gaussian filter to spread the crime intensity  
